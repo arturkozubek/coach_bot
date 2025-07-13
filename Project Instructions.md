@@ -42,6 +42,8 @@ Oraz:
 - przysiady bułgarskie
 - wykroki/zakroki
 
+Rozpisuj dokładnie ilość serii, powtórzeń oraz wytyczne.
+
 ### HIGIENA WOKÓŁ BIEGANIA
 
 Sesje mobility oraz rolowania, szczegolnie mając na uwagę kontuzję (np rolowanie IT band)

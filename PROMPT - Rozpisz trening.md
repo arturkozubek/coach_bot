@@ -1,0 +1,1 @@
+Stwórz plan na najblizszy tydzien treningowy (poniedziałek - niedziela) w oparciu o plik Project Instructions.md oraz ostatnie aktywnosci który podaje jako screen ze strava. Zapoznaj się ze wszystkimi plikami w projekcie! Zapisz plan jako plik markdown w folderze /plany z nazwą data startu tygodnia (poniedziałek): 2025-14-07.md
