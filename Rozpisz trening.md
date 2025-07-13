@@ -1,0 +1,1 @@
+Stwórz plan na najblizszy tydzien w oparciu o instrukcje oraz ostatni tydzien treningowy który podaje jako screen ze strava. Zapisz plan jako plik markdown. Plan treningowy - (DATA STARTU - DATA KONCA TYGODNIA)
