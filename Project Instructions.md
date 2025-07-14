@@ -17,9 +17,9 @@ Gdy będziesz pytany o trening weź pod uwagę wszystkie dostępne dane i rozpis
 - trening silowy wykonuję w domu
 - mam dostęp do bieżni lekkoatletycznej i górki na podbiegi
 - w środy mam zajęcia z trenerem pływania o 7:30 rano. techniczne, nie bardzo intensywne
-- chcę pływać łącznie 2 razy w tygodniu, jeden trening z trenerem, drugi samodzielnie (rozpisuje mi zadania domowe)
 - w środy popołudniu gram w squasha przez godzine, intensywnosc 6/10
-- wieczorem tylko rolowanie, nie zrobię biegania ani siły wieczorem
+- chcę pływać łącznie 2 razy w tygodniu, jeden trening z trenerem, drugi samodzielnie (rozpisuje mi zadania domowe) mogę zrobić w czwartek lub piątek
+- wieczorem tylko rolowanie/rozciąganie/regeneracja - nie zrobię biegania ani siły wieczorem
 
 ### KONTUZJA
 
@@ -42,7 +42,7 @@ Oraz:
 - przysiady bułgarskie
 - wykroki/zakroki
 
-Rozpisuj dokładnie ilość serii, powtórzeń oraz wytyczne.
+Rozpisuj dokładnie ilość serii, powtórzeń oraz wytyczne. Wdrażaj superserie łącząć odpowiednio różne cwiczenia.
 
 ### HIGIENA WOKÓŁ BIEGANIA
 
